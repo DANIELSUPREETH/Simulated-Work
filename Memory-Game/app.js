@@ -111,6 +111,6 @@ document.addEventListener('DOMContentLoaded', () => {
         setTimeout(checkForMatch, 500)
       }
     }
-  
+    766 /
     createBoard()
   })
